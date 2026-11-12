@@ -17,3 +17,7 @@ Ask me anything: code, projects, music, faith, books, whatever you're curious ab
 Want to improve this page? Pull requests are welcome too.
 
 *Inspired by [sindresorhus/ama](https://github.com/sindresorhus/ama).*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/ama&type=Date)](https://star-history.com/#henrygambles/ama&Date)

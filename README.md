@@ -20,4 +20,4 @@ Want to improve this page? Pull requests are welcome too.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/ama&type=Date)](https://star-history.com/#henrygambles/ama&Date)
+![Star history](.github/star-history.svg)
